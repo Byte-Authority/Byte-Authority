@@ -1,0 +1,12 @@
+{
+  "injecagent": {
+    "source": "https://github.com/uiuc-kang-lab/InjecAgent",
+    "license": "MIT",
+    "use": "Download the benchmark inputs and tool definitions from the upstream project."
+  },
+  "agentdojo": {
+    "source": "https://github.com/ethz-spylab/agentdojo",
+    "license": "MIT",
+    "use": "Install the benchmark package and obtain its suites from the upstream project."
+  }
+}

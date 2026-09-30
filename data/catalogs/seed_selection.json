@@ -1,0 +1,27 @@
+{
+  "family": "seed",
+  "best_variant": "variant_095",
+  "top_variants": [
+    "variant_095",
+    "variant_106",
+    "variant_103",
+    "variant_090",
+    "variant_098"
+  ],
+  "heldout_variants": [
+    "reserved",
+    "split",
+    "plaintext",
+    "fixed_variant_1",
+    "fixed_variant_2",
+    "fixed_variant_3",
+    "fixed_variant_4",
+    "fixed_variant_5",
+    "fixed_variant_6",
+    "searched_variant_095",
+    "searched_variant_106",
+    "searched_variant_103",
+    "searched_variant_090",
+    "searched_variant_098"
+  ]
+}

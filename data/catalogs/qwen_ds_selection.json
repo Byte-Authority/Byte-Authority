@@ -1,0 +1,27 @@
+{
+  "family": "qwen_ds",
+  "best_variant": "variant_034",
+  "top_variants": [
+    "variant_034",
+    "variant_095",
+    "variant_106",
+    "variant_107",
+    "variant_038"
+  ],
+  "heldout_variants": [
+    "reserved",
+    "split",
+    "plaintext",
+    "fixed_variant_1",
+    "fixed_variant_2",
+    "fixed_variant_3",
+    "fixed_variant_4",
+    "fixed_variant_5",
+    "fixed_variant_6",
+    "searched_variant_034",
+    "searched_variant_095",
+    "searched_variant_106",
+    "searched_variant_107",
+    "searched_variant_038"
+  ]
+}

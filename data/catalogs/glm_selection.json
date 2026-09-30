@@ -1,0 +1,27 @@
+{
+  "family": "glm",
+  "best_variant": "variant_093",
+  "top_variants": [
+    "variant_093",
+    "variant_098",
+    "variant_103",
+    "variant_085",
+    "variant_087"
+  ],
+  "heldout_variants": [
+    "reserved",
+    "split",
+    "plaintext",
+    "fixed_variant_1",
+    "fixed_variant_2",
+    "fixed_variant_3",
+    "fixed_variant_4",
+    "fixed_variant_5",
+    "fixed_variant_6",
+    "searched_variant_093",
+    "searched_variant_098",
+    "searched_variant_103",
+    "searched_variant_085",
+    "searched_variant_087"
+  ]
+}

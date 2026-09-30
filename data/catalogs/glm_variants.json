@@ -1,0 +1,1016 @@
+{
+  "family": "glm",
+  "markers": [
+    "</tool_response>",
+    "<|system|>",
+    "<|assistant|>"
+  ],
+  "variants": [
+    {
+      "name": "variant_001",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</zool_response>",
+        "<|system|>": "<|zystem|>",
+        "<|assistant|>": "<|zssistant|>"
+      }
+    },
+    {
+      "name": "variant_002",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</xool_response>",
+        "<|system|>": "<|xystem|>",
+        "<|assistant|>": "<|xssistant|>"
+      }
+    },
+    {
+      "name": "variant_003",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</qool_response>",
+        "<|system|>": "<|qystem|>",
+        "<|assistant|>": "<|qssistant|>"
+      }
+    },
+    {
+      "name": "variant_004",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</sool_response>",
+        "<|system|>": "<|rystem|>",
+        "<|assistant|>": "<|zssistant|>"
+      }
+    },
+    {
+      "name": "variant_005",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tzol_response>",
+        "<|system|>": "<|szstem|>",
+        "<|assistant|>": "<|azsistant|>"
+      }
+    },
+    {
+      "name": "variant_006",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</txol_response>",
+        "<|system|>": "<|sxstem|>",
+        "<|assistant|>": "<|axsistant|>"
+      }
+    },
+    {
+      "name": "variant_007",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tqol_response>",
+        "<|system|>": "<|sqstem|>",
+        "<|assistant|>": "<|aqsistant|>"
+      }
+    },
+    {
+      "name": "variant_008",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tpol_response>",
+        "<|system|>": "<|szstem|>",
+        "<|assistant|>": "<|atsistant|>"
+      }
+    },
+    {
+      "name": "variant_009",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tnol_response>",
+        "<|system|>": "<|sxstem|>",
+        "<|assistant|>": "<|arsistant|>"
+      }
+    },
+    {
+      "name": "variant_010",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_rezponse>",
+        "<|system|>": "<|syszem|>",
+        "<|assistant|>": "<|assiztant|>"
+      }
+    },
+    {
+      "name": "variant_011",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_rexponse>",
+        "<|system|>": "<|sysxem|>",
+        "<|assistant|>": "<|assixtant|>"
+      }
+    },
+    {
+      "name": "variant_012",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_reqponse>",
+        "<|system|>": "<|sysqem|>",
+        "<|assistant|>": "<|assiqtant|>"
+      }
+    },
+    {
+      "name": "variant_013",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_retponse>",
+        "<|system|>": "<|sysuem|>",
+        "<|assistant|>": "<|assittant|>"
+      }
+    },
+    {
+      "name": "variant_014",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_rerponse>",
+        "<|system|>": "<|syssem|>",
+        "<|assistant|>": "<|assirtant|>"
+      }
+    },
+    {
+      "name": "variant_015",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responze>",
+        "<|system|>": "<|systzm|>",
+        "<|assistant|>": "<|assistazt|>"
+      }
+    },
+    {
+      "name": "variant_016",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responxe>",
+        "<|system|>": "<|systxm|>",
+        "<|assistant|>": "<|assistaxt|>"
+      }
+    },
+    {
+      "name": "variant_017",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responqe>",
+        "<|system|>": "<|systqm|>",
+        "<|assistant|>": "<|assistaqt|>"
+      }
+    },
+    {
+      "name": "variant_018",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responte>",
+        "<|system|>": "<|systfm|>",
+        "<|assistant|>": "<|assistaot|>"
+      }
+    },
+    {
+      "name": "variant_019",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responre>",
+        "<|system|>": "<|systdm|>",
+        "<|assistant|>": "<|assistamt|>"
+      }
+    },
+    {
+      "name": "variant_020",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responsz>",
+        "<|system|>": "<|systez|>",
+        "<|assistant|>": "<|assistanz|>"
+      }
+    },
+    {
+      "name": "variant_021",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responsx>",
+        "<|system|>": "<|systex|>",
+        "<|assistant|>": "<|assistanx|>"
+      }
+    },
+    {
+      "name": "variant_022",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responsq>",
+        "<|system|>": "<|systeq|>",
+        "<|assistant|>": "<|assistanq|>"
+      }
+    },
+    {
+      "name": "variant_023",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responsf>",
+        "<|system|>": "<|systen|>",
+        "<|assistant|>": "<|assistanu|>"
+      }
+    },
+    {
+      "name": "variant_024",
+      "category": "substitution",
+      "mapping": {
+        "</tool_response>": "</tool_responsd>",
+        "<|system|>": "<|systel|>",
+        "<|assistant|>": "<|assistans|>"
+      }
+    },
+    {
+      "name": "variant_025",
+      "category": "leet",
+      "mapping": {
+        "</tool_response>": "</7ool_response>",
+        "<|system|>": "<|5ystem|>",
+        "<|assistant|>": "<|4ssistant|>"
+      }
+    },
+    {
+      "name": "variant_026",
+      "category": "leet",
+      "mapping": {
+        "</tool_response>": "</700l_r35p0n53>",
+        "<|system|>": "<|5y573m|>",
+        "<|assistant|>": "<|4551574n7|>"
+      }
+    },
+    {
+      "name": "variant_027",
+      "category": "deletion",
+      "mapping": {
+        "</tool_response>": "</ool_response>",
+        "<|system|>": "<|ystem|>",
+        "<|assistant|>": "<|ssistant|>"
+      }
+    },
+    {
+      "name": "variant_028",
+      "category": "deletion",
+      "mapping": {
+        "</tool_response>": "</tol_response>",
+        "<|system|>": "<|sstem|>",
+        "<|assistant|>": "<|asistant|>"
+      }
+    },
+    {
+      "name": "variant_029",
+      "category": "deletion",
+      "mapping": {
+        "</tool_response>": "</tool_reponse>",
+        "<|system|>": "<|sysem|>",
+        "<|assistant|>": "<|assitant|>"
+      }
+    },
+    {
+      "name": "variant_030",
+      "category": "deletion",
+      "mapping": {
+        "</tool_response>": "</tool_respone>",
+        "<|system|>": "<|systm|>",
+        "<|assistant|>": "<|assistat|>"
+      }
+    },
+    {
+      "name": "variant_031",
+      "category": "deletion",
+      "mapping": {
+        "</tool_response>": "</tool_respons>",
+        "<|system|>": "<|syste|>",
+        "<|assistant|>": "<|assistan|>"
+      }
+    },
+    {
+      "name": "variant_032",
+      "category": "deletion",
+      "mapping": {
+        "</tool_response>": "</tl_rspns>",
+        "<|system|>": "<|systm|>",
+        "<|assistant|>": "<|ssstnt|>"
+      }
+    },
+    {
+      "name": "variant_033",
+      "category": "deletion",
+      "mapping": {
+        "</tool_response>": "/tool_response>",
+        "<|system|>": "|system|>",
+        "<|assistant|>": "|assistant|>"
+      }
+    },
+    {
+      "name": "variant_034",
+      "category": "deletion",
+      "mapping": {
+        "</tool_response>": "</tool_response",
+        "<|system|>": "<|system|",
+        "<|assistant|>": "<|assistant|"
+      }
+    },
+    {
+      "name": "variant_035",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</txool_response>",
+        "<|system|>": "<|sxystem|>",
+        "<|assistant|>": "<|axssistant|>"
+      }
+    },
+    {
+      "name": "variant_036",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</t_ool_response>",
+        "<|system|>": "<|s_ystem|>",
+        "<|assistant|>": "<|a_ssistant|>"
+      }
+    },
+    {
+      "name": "variant_037",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</t-ool_response>",
+        "<|system|>": "<|s-ystem|>",
+        "<|assistant|>": "<|a-ssistant|>"
+      }
+    },
+    {
+      "name": "variant_038",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</t.ool_response>",
+        "<|system|>": "<|s.ystem|>",
+        "<|assistant|>": "<|a.ssistant|>"
+      }
+    },
+    {
+      "name": "variant_039",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</t ool_response>",
+        "<|system|>": "<|s ystem|>",
+        "<|assistant|>": "<|a ssistant|>"
+      }
+    },
+    {
+      "name": "variant_040",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_responsxe>",
+        "<|system|>": "<|systexm|>",
+        "<|assistant|>": "<|assistanxt|>"
+      }
+    },
+    {
+      "name": "variant_041",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_respons_e>",
+        "<|system|>": "<|syste_m|>",
+        "<|assistant|>": "<|assistan_t|>"
+      }
+    },
+    {
+      "name": "variant_042",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_respons-e>",
+        "<|system|>": "<|syste-m|>",
+        "<|assistant|>": "<|assistan-t|>"
+      }
+    },
+    {
+      "name": "variant_043",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_respons.e>",
+        "<|system|>": "<|syste.m|>",
+        "<|assistant|>": "<|assistan.t|>"
+      }
+    },
+    {
+      "name": "variant_044",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_respons e>",
+        "<|system|>": "<|syste m|>",
+        "<|assistant|>": "<|assistan t|>"
+      }
+    },
+    {
+      "name": "variant_045",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_rexsponse>",
+        "<|system|>": "<|sysxtem|>",
+        "<|assistant|>": "<|assixstant|>"
+      }
+    },
+    {
+      "name": "variant_046",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_re_sponse>",
+        "<|system|>": "<|sys_tem|>",
+        "<|assistant|>": "<|assi_stant|>"
+      }
+    },
+    {
+      "name": "variant_047",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_re-sponse>",
+        "<|system|>": "<|sys-tem|>",
+        "<|assistant|>": "<|assi-stant|>"
+      }
+    },
+    {
+      "name": "variant_048",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_re.sponse>",
+        "<|system|>": "<|sys.tem|>",
+        "<|assistant|>": "<|assi.stant|>"
+      }
+    },
+    {
+      "name": "variant_049",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_re sponse>",
+        "<|system|>": "<|sys tem|>",
+        "<|assistant|>": "<|assi stant|>"
+      }
+    },
+    {
+      "name": "variant_050",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</ttool_response>",
+        "<|system|>": "<|ssystem|>",
+        "<|assistant|>": "<|aassistant|>"
+      }
+    },
+    {
+      "name": "variant_051",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "</tool_responsee>",
+        "<|system|>": "<|systemm|>",
+        "<|assistant|>": "<|assistantt|>"
+      }
+    },
+    {
+      "name": "variant_052",
+      "category": "insertion",
+      "mapping": {
+        "</tool_response>": "<//tool_response>",
+        "<|system|>": "<||system|>",
+        "<|assistant|>": "<||assistant|>"
+      }
+    },
+    {
+      "name": "variant_053",
+      "category": "transposition",
+      "mapping": {
+        "</tool_response>": "</tool_respones>",
+        "<|system|>": "<|systme|>",
+        "<|assistant|>": "<|assistatn|>"
+      }
+    },
+    {
+      "name": "variant_054",
+      "category": "transposition",
+      "mapping": {
+        "</tool_response>": "</tool_rseponse>",
+        "<|system|>": "<|sytsem|>",
+        "<|assistant|>": "<|asssitant|>"
+      }
+    },
+    {
+      "name": "variant_055",
+      "category": "transposition",
+      "mapping": {
+        "</tool_response>": "</tool_esnopser>",
+        "<|system|>": "<|metsys|>",
+        "<|assistant|>": "<|tnatsissa|>"
+      }
+    },
+    {
+      "name": "variant_056",
+      "category": "transposition",
+      "mapping": {
+        "</tool_response>": "</tool_esponser>",
+        "<|system|>": "<|ystems|>",
+        "<|assistant|>": "<|ssistanta|>"
+      }
+    },
+    {
+      "name": "variant_057",
+      "category": "transposition",
+      "mapping": {
+        "</tool_response>": "<t/ool_response>",
+        "<|system|>": "<s|ystem|>",
+        "<|assistant|>": "<a|ssistant|>"
+      }
+    },
+    {
+      "name": "variant_058",
+      "category": "case",
+      "mapping": {
+        "</tool_response>": "</tool_responsE>",
+        "<|system|>": "<|systeM|>",
+        "<|assistant|>": "<|assistanT|>"
+      }
+    },
+    {
+      "name": "variant_059",
+      "category": "case",
+      "mapping": {
+        "</tool_response>": "</TOOL_RESPONSE>",
+        "<|system|>": "<|SYSTEM|>",
+        "<|assistant|>": "<|ASSISTANT|>"
+      }
+    },
+    {
+      "name": "variant_060",
+      "category": "case",
+      "mapping": {
+        "</tool_response>": "</tOOL_RESPONSE>",
+        "<|system|>": "<|sYSTEM|>",
+        "<|assistant|>": "<|aSSISTANT|>"
+      }
+    },
+    {
+      "name": "variant_061",
+      "category": "case",
+      "mapping": {
+        "</tool_response>": "</ToOl_ReSpOnSe>",
+        "<|system|>": "<|SyStEm|>",
+        "<|assistant|>": "<|AsSiStAnT|>"
+      }
+    },
+    {
+      "name": "variant_062",
+      "category": "case",
+      "mapping": {
+        "</tool_response>": "</Tool_Response>",
+        "<|system|>": "<|System|>",
+        "<|assistant|>": "<|Assistant|>"
+      }
+    },
+    {
+      "name": "variant_063",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "</tоol_response>",
+        "<|system|>": "<|ѕystem|>",
+        "<|assistant|>": "<|аssistant|>"
+      }
+    },
+    {
+      "name": "variant_064",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "</tool_responsе>",
+        "<|system|>": "<|systеm|>",
+        "<|assistant|>": "<|assistаnt|>"
+      }
+    },
+    {
+      "name": "variant_065",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "</tооl_rеѕроnѕе>",
+        "<|system|>": "<|ѕуѕtеm|>",
+        "<|assistant|>": "<|аѕѕіѕtаnt|>"
+      }
+    },
+    {
+      "name": "variant_066",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "</tооl_rеspоnsе>",
+        "<|system|>": "<|systеm|>",
+        "<|assistant|>": "<|аssіstаnt|>"
+      }
+    },
+    {
+      "name": "variant_067",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "</τool_response>",
+        "<|system|>": "<|sysτem|>",
+        "<|assistant|>": "<|αssistant|>"
+      }
+    },
+    {
+      "name": "variant_068",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "</τοοl_respοηse>",
+        "<|system|>": "<|sysτem|>",
+        "<|assistant|>": "<|αssιsταητ|>"
+      }
+    },
+    {
+      "name": "variant_069",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "‹/tool_response›",
+        "<|system|>": "‹|system|›",
+        "<|assistant|>": "‹|assistant|›"
+      }
+    },
+    {
+      "name": "variant_070",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "＜/tool_response＞",
+        "<|system|>": "＜|system|＞",
+        "<|assistant|>": "＜|assistant|＞"
+      }
+    },
+    {
+      "name": "variant_071",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "〈/tool_response〉",
+        "<|system|>": "〈|system|〉",
+        "<|assistant|>": "〈|assistant|〉"
+      }
+    },
+    {
+      "name": "variant_072",
+      "category": "homoglyph",
+      "mapping": {
+        "</tool_response>": "˂/tool_response˃",
+        "<|system|>": "˂|system|˃",
+        "<|assistant|>": "˂|assistant|˃"
+      }
+    },
+    {
+      "name": "variant_073",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "< /tool_response >",
+        "<|system|>": "< |system| >",
+        "<|assistant|>": "< |assistant| >"
+      }
+    },
+    {
+      "name": "variant_074",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "<​/tool_response>",
+        "<|system|>": "<​|system|>",
+        "<|assistant|>": "<​|assistant|>"
+      }
+    },
+    {
+      "name": "variant_075",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "<‍/tool_response>",
+        "<|system|>": "<‍|system|>",
+        "<|assistant|>": "<‍|assistant|>"
+      }
+    },
+    {
+      "name": "variant_076",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "<‌/tool_response>",
+        "<|system|>": "<‌|system|>",
+        "<|assistant|>": "<‌|assistant|>"
+      }
+    },
+    {
+      "name": "variant_077",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "</tool_r­esponse>",
+        "<|system|>": "<|sys­tem|>",
+        "<|assistant|>": "<|assi­stant|>"
+      }
+    },
+    {
+      "name": "variant_078",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "<\t/tool_response>",
+        "<|system|>": "<\t|system|>",
+        "<|assistant|>": "<\t|assistant|>"
+      }
+    },
+    {
+      "name": "variant_079",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "</tool_response >",
+        "<|system|>": "<|system| >",
+        "<|assistant|>": "<|assistant| >"
+      }
+    },
+    {
+      "name": "variant_080",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "[/tool_response]",
+        "<|system|>": "[|system|]",
+        "<|assistant|>": "[|assistant|]"
+      }
+    },
+    {
+      "name": "variant_081",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "{/tool_response}",
+        "<|system|>": "{|system|}",
+        "<|assistant|>": "{|assistant|}"
+      }
+    },
+    {
+      "name": "variant_082",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "(/tool_response)",
+        "<|system|>": "(|system|)",
+        "<|assistant|>": "(|assistant|)"
+      }
+    },
+    {
+      "name": "variant_083",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "</tool_r​esponse>",
+        "<|system|>": "<|sys​tem|>",
+        "<|assistant|>": "<|assi​stant|>"
+      }
+    },
+    {
+      "name": "variant_084",
+      "category": "whitespace",
+      "mapping": {
+        "</tool_response>": "</tool_r esponse>",
+        "<|system|>": "<|sys tem|>",
+        "<|assistant|>": "<|assi stant|>"
+      }
+    },
+    {
+      "name": "variant_085",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": " 图片发自简书app",
+        "<|system|>": "artisanlib",
+        "<|assistant|>": "锅内倒入植物油烧热"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_086",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": ")。",
+        "<|system|>": " przygotow",
+        "<|assistant|>": " HttpResponseMessage"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_087",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "！）",
+        "<|system|>": ".SetKeyName",
+        "<|assistant|>": " mauva"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_088",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": " ）。",
+        "<|system|>": " ********************************************************",
+        "<|assistant|>": "ramienta"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_089",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "。",
+        "<|system|>": ".toolStripMenuItem",
+        "<|assistant|>": ".MiddleRight"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_090",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "）。",
+        "<|system|>": " uintptr",
+        "<|assistant|>": ".dataGridViewTextBoxColumn"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_091",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "」。",
+        "<|system|>": "/********************************************************",
+        "<|assistant|>": " jsonResponse"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_092",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "»).",
+        "<|system|>": ".XtraBars",
+        "<|assistant|>": " errMsg"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_093",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "))))",
+        "<|system|>": " RTAL",
+        "<|assistant|>": " przeprowad"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_094",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "。】",
+        "<|system|>": ".visitVarInsn",
+        "<|assistant|>": " marshaller"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_095",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": " ослож",
+        "<|system|>": "********************************************************",
+        "<|assistant|>": ".StatusInternalServerError"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_096",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": " !***",
+        "<|system|>": "<SpriteRenderer",
+        "<|assistant|>": "outedEventArgs"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_097",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "“。",
+        "<|system|>": " располаг",
+        "<|assistant|>": ".metroLabel"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_098",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "]。",
+        "<|system|>": "огранич",
+        "<|assistant|>": " erotique"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_099",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "》。",
+        "<|system|>": "########################################################",
+        "<|assistant|>": " SqlDataAdapter"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_100",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "\"！",
+        "<|system|>": " INTERRU",
+        "<|assistant|>": " messageType"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_101",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "？！",
+        "<|system|>": ".EventSystems",
+        "<|assistant|>": " errorMessage"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_102",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "!»",
+        "<|system|>": " mtx",
+        "<|assistant|>": ".MaximizeBox"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_103",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "\\n",
+        "<|system|>": " InternalEnumerator",
+        "<|assistant|>": " davidjl"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_104",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "发自简书app",
+        "<|system|>": "////////////////////////////////////////////////////////////",
+        "<|assistant|>": " errmsg"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_105",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "</图片发自简书app>",
+        "<|system|>": "<|artisanlib|>",
+        "<|assistant|>": "<|锅内倒入植物油烧热|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_106",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "</)。>",
+        "<|system|>": "<|przygotow|>",
+        "<|assistant|>": "<|HttpResponseMessage|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_107",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "</！）>",
+        "<|system|>": "<|.SetKeyName|>",
+        "<|assistant|>": "<|mauva|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_108",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "</）。>",
+        "<|system|>": "<|********************************************************|>",
+        "<|assistant|>": "<|ramienta|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_109",
+      "category": "embedding",
+      "mapping": {
+        "</tool_response>": "</。>",
+        "<|system|>": "<|.toolStripMenuItem|>",
+        "<|assistant|>": "<|.MiddleRight|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    }
+  ]
+}

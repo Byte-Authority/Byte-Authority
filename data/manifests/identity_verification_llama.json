@@ -1,0 +1,26 @@
+{
+ "family": "llama",
+ "cases": 80,
+ "passed": {
+  "n_swapped_ge2": 80,
+  "positions_are_protected": 80,
+  "swap_ordinary_mean_same_length": 80,
+  "swap_ordinary_mean_rest_identical": 80,
+  "swap_ordinary_mean_swapped_differ": 80,
+  "swap_ordinary_nearest_same_length": 80,
+  "swap_ordinary_nearest_rest_identical": 80,
+  "swap_ordinary_nearest_swapped_differ": 80,
+  "swap_reserved_other_same_length": 80,
+  "swap_reserved_other_rest_identical": 80,
+  "swap_reserved_other_swapped_differ": 80
+ },
+ "negative_no_swap_caught": true,
+ "negative_wrong_position_caught": true,
+ "other_token": {
+  "id": 128010,
+  "surface": "<|python_tag|>",
+  "norm": 0.04234279319643974,
+  "ordinary_median_norm": 0.68504798412323
+ },
+ "median_swapped": 6
+}

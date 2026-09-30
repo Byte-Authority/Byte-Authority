@@ -1,0 +1,1034 @@
+{
+  "family": "qwen_ds",
+  "markers": [
+    "<|im_end|>",
+    "<|im_start|>"
+  ],
+  "variants": [
+    {
+      "name": "variant_001",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|zm_end|>",
+        "<|im_start|>": "<|zm_start|>"
+      }
+    },
+    {
+      "name": "variant_002",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|xm_end|>",
+        "<|im_start|>": "<|xm_start|>"
+      }
+    },
+    {
+      "name": "variant_003",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|qm_end|>",
+        "<|im_start|>": "<|qm_start|>"
+      }
+    },
+    {
+      "name": "variant_004",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|hm_end|>",
+        "<|im_start|>": "<|hm_start|>"
+      }
+    },
+    {
+      "name": "variant_005",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|iz_end|>",
+        "<|im_start|>": "<|iz_start|>"
+      }
+    },
+    {
+      "name": "variant_006",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|ix_end|>",
+        "<|im_start|>": "<|ix_start|>"
+      }
+    },
+    {
+      "name": "variant_007",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|iq_end|>",
+        "<|im_start|>": "<|iq_start|>"
+      }
+    },
+    {
+      "name": "variant_008",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|in_end|>",
+        "<|im_start|>": "<|in_start|>"
+      }
+    },
+    {
+      "name": "variant_009",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|il_end|>",
+        "<|im_start|>": "<|il_start|>"
+      }
+    },
+    {
+      "name": "variant_010",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_znd|>",
+        "<|im_start|>": "<|im_szart|>"
+      }
+    },
+    {
+      "name": "variant_011",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_xnd|>",
+        "<|im_start|>": "<|im_sxart|>"
+      }
+    },
+    {
+      "name": "variant_012",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_qnd|>",
+        "<|im_start|>": "<|im_sqart|>"
+      }
+    },
+    {
+      "name": "variant_013",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_fnd|>",
+        "<|im_start|>": "<|im_suart|>"
+      }
+    },
+    {
+      "name": "variant_014",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_dnd|>",
+        "<|im_start|>": "<|im_ssart|>"
+      }
+    },
+    {
+      "name": "variant_015",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_ezd|>",
+        "<|im_start|>": "<|im_stazt|>"
+      }
+    },
+    {
+      "name": "variant_016",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_exd|>",
+        "<|im_start|>": "<|im_staxt|>"
+      }
+    },
+    {
+      "name": "variant_017",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_eqd|>",
+        "<|im_start|>": "<|im_staqt|>"
+      }
+    },
+    {
+      "name": "variant_018",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_eod|>",
+        "<|im_start|>": "<|im_stast|>"
+      }
+    },
+    {
+      "name": "variant_019",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_emd|>",
+        "<|im_start|>": "<|im_staqt|>"
+      }
+    },
+    {
+      "name": "variant_020",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_enz|>",
+        "<|im_start|>": "<|im_starz|>"
+      }
+    },
+    {
+      "name": "variant_021",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_enx|>",
+        "<|im_start|>": "<|im_starx|>"
+      }
+    },
+    {
+      "name": "variant_022",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_enq|>",
+        "<|im_start|>": "<|im_starq|>"
+      }
+    },
+    {
+      "name": "variant_023",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_ene|>",
+        "<|im_start|>": "<|im_staru|>"
+      }
+    },
+    {
+      "name": "variant_024",
+      "category": "substitution",
+      "mapping": {
+        "<|im_end|>": "<|im_enc|>",
+        "<|im_start|>": "<|im_stars|>"
+      }
+    },
+    {
+      "name": "variant_025",
+      "category": "leet",
+      "mapping": {
+        "<|im_end|>": "<|1m_end|>",
+        "<|im_start|>": "<|1m_start|>"
+      }
+    },
+    {
+      "name": "variant_026",
+      "category": "leet",
+      "mapping": {
+        "<|im_end|>": "<|1m_3nd|>",
+        "<|im_start|>": "<|1m_574r7|>"
+      }
+    },
+    {
+      "name": "variant_027",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<|m_end|>",
+        "<|im_start|>": "<|m_start|>"
+      }
+    },
+    {
+      "name": "variant_028",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<|i_end|>",
+        "<|im_start|>": "<|i_start|>"
+      }
+    },
+    {
+      "name": "variant_029",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<|im_nd|>",
+        "<|im_start|>": "<|im_sart|>"
+      }
+    },
+    {
+      "name": "variant_030",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<|im_ed|>",
+        "<|im_start|>": "<|im_stat|>"
+      }
+    },
+    {
+      "name": "variant_031",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<|im_en|>",
+        "<|im_start|>": "<|im_star|>"
+      }
+    },
+    {
+      "name": "variant_032",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<im_end>",
+        "<|im_start|>": "<im_start>"
+      }
+    },
+    {
+      "name": "variant_033",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<im_end|>",
+        "<|im_start|>": "<im_start|>"
+      }
+    },
+    {
+      "name": "variant_034",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<|im_end>",
+        "<|im_start|>": "<|im_start>"
+      }
+    },
+    {
+      "name": "variant_035",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<|imend|>",
+        "<|im_start|>": "<|imstart|>"
+      }
+    },
+    {
+      "name": "variant_036",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<|m_nd|>",
+        "<|im_start|>": "<|m_strt|>"
+      }
+    },
+    {
+      "name": "variant_037",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "|im_end|>",
+        "<|im_start|>": "|im_start|>"
+      }
+    },
+    {
+      "name": "variant_038",
+      "category": "deletion",
+      "mapping": {
+        "<|im_end|>": "<|im_end|",
+        "<|im_start|>": "<|im_start|"
+      }
+    },
+    {
+      "name": "variant_039",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|ixm_end|>",
+        "<|im_start|>": "<|ixm_start|>"
+      }
+    },
+    {
+      "name": "variant_040",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|i_m_end|>",
+        "<|im_start|>": "<|i_m_start|>"
+      }
+    },
+    {
+      "name": "variant_041",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|i-m_end|>",
+        "<|im_start|>": "<|i-m_start|>"
+      }
+    },
+    {
+      "name": "variant_042",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|i.m_end|>",
+        "<|im_start|>": "<|i.m_start|>"
+      }
+    },
+    {
+      "name": "variant_043",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|i m_end|>",
+        "<|im_start|>": "<|i m_start|>"
+      }
+    },
+    {
+      "name": "variant_044",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_enxd|>",
+        "<|im_start|>": "<|im_starxt|>"
+      }
+    },
+    {
+      "name": "variant_045",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_en_d|>",
+        "<|im_start|>": "<|im_star_t|>"
+      }
+    },
+    {
+      "name": "variant_046",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_en-d|>",
+        "<|im_start|>": "<|im_star-t|>"
+      }
+    },
+    {
+      "name": "variant_047",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_en.d|>",
+        "<|im_start|>": "<|im_star.t|>"
+      }
+    },
+    {
+      "name": "variant_048",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_en d|>",
+        "<|im_start|>": "<|im_star t|>"
+      }
+    },
+    {
+      "name": "variant_049",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_xend|>",
+        "<|im_start|>": "<|im_sxtart|>"
+      }
+    },
+    {
+      "name": "variant_050",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im__end|>",
+        "<|im_start|>": "<|im_s_tart|>"
+      }
+    },
+    {
+      "name": "variant_051",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_-end|>",
+        "<|im_start|>": "<|im_s-tart|>"
+      }
+    },
+    {
+      "name": "variant_052",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_.end|>",
+        "<|im_start|>": "<|im_s.tart|>"
+      }
+    },
+    {
+      "name": "variant_053",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_ end|>",
+        "<|im_start|>": "<|im_s tart|>"
+      }
+    },
+    {
+      "name": "variant_054",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|iim_end|>",
+        "<|im_start|>": "<|iim_start|>"
+      }
+    },
+    {
+      "name": "variant_055",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<|im_endd|>",
+        "<|im_start|>": "<|im_startt|>"
+      }
+    },
+    {
+      "name": "variant_056",
+      "category": "insertion",
+      "mapping": {
+        "<|im_end|>": "<||im_end|>",
+        "<|im_start|>": "<||im_start|>"
+      }
+    },
+    {
+      "name": "variant_057",
+      "category": "transposition",
+      "mapping": {
+        "<|im_end|>": "<|im_edn|>",
+        "<|im_start|>": "<|im_statr|>"
+      }
+    },
+    {
+      "name": "variant_058",
+      "category": "transposition",
+      "mapping": {
+        "<|im_end|>": "<|ie_mnd|>",
+        "<|im_start|>": "<|im_tsart|>"
+      }
+    },
+    {
+      "name": "variant_059",
+      "category": "transposition",
+      "mapping": {
+        "<|im_end|>": "<|im_dne|>",
+        "<|im_start|>": "<|im_trats|>"
+      }
+    },
+    {
+      "name": "variant_060",
+      "category": "transposition",
+      "mapping": {
+        "<|im_end|>": "<|im_nde|>",
+        "<|im_start|>": "<|im_tarts|>"
+      }
+    },
+    {
+      "name": "variant_061",
+      "category": "transposition",
+      "mapping": {
+        "<|im_end|>": "<i|m_end|>",
+        "<|im_start|>": "<i|m_start|>"
+      }
+    },
+    {
+      "name": "variant_062",
+      "category": "case",
+      "mapping": {
+        "<|im_end|>": "<|im_enD|>",
+        "<|im_start|>": "<|im_starT|>"
+      }
+    },
+    {
+      "name": "variant_063",
+      "category": "case",
+      "mapping": {
+        "<|im_end|>": "<|IM_END|>",
+        "<|im_start|>": "<|IM_START|>"
+      }
+    },
+    {
+      "name": "variant_064",
+      "category": "case",
+      "mapping": {
+        "<|im_end|>": "<|iM_END|>",
+        "<|im_start|>": "<|iM_START|>"
+      }
+    },
+    {
+      "name": "variant_065",
+      "category": "case",
+      "mapping": {
+        "<|im_end|>": "<|Im_EnD|>",
+        "<|im_start|>": "<|Im_StArT|>"
+      }
+    },
+    {
+      "name": "variant_066",
+      "category": "case",
+      "mapping": {
+        "<|im_end|>": "<|Im_End|>",
+        "<|im_start|>": "<|Im_Start|>"
+      }
+    },
+    {
+      "name": "variant_067",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|іm_end|>",
+        "<|im_start|>": "<|іm_start|>"
+      }
+    },
+    {
+      "name": "variant_068",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|im_enԁ|>",
+        "<|im_start|>": "<|im_stаrt|>"
+      }
+    },
+    {
+      "name": "variant_069",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|іm_еnԁ|>",
+        "<|im_start|>": "<|іm_ѕtаrt|>"
+      }
+    },
+    {
+      "name": "variant_070",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|іm_еnd|>",
+        "<|im_start|>": "<|іm_stаrt|>"
+      }
+    },
+    {
+      "name": "variant_071",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|ιm_end|>",
+        "<|im_start|>": "<|ιm_start|>"
+      }
+    },
+    {
+      "name": "variant_072",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|ιm_eηd|>",
+        "<|im_start|>": "<|ιm_sταrτ|>"
+      }
+    },
+    {
+      "name": "variant_073",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<ǀim_endǀ>",
+        "<|im_start|>": "<ǀim_startǀ>"
+      }
+    },
+    {
+      "name": "variant_074",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<｜im_end｜>",
+        "<|im_start|>": "<｜im_start｜>"
+      }
+    },
+    {
+      "name": "variant_075",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<∣im_end∣>",
+        "<|im_start|>": "<∣im_start∣>"
+      }
+    },
+    {
+      "name": "variant_076",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<│im_end│>",
+        "<|im_start|>": "<│im_start│>"
+      }
+    },
+    {
+      "name": "variant_077",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<lim_endl>",
+        "<|im_start|>": "<lim_startl>"
+      }
+    },
+    {
+      "name": "variant_078",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<Iim_endI>",
+        "<|im_start|>": "<Iim_startI>"
+      }
+    },
+    {
+      "name": "variant_079",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<¦im_end¦>",
+        "<|im_start|>": "<¦im_start¦>"
+      }
+    },
+    {
+      "name": "variant_080",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<!im_end!>",
+        "<|im_start|>": "<!im_start!>"
+      }
+    },
+    {
+      "name": "variant_081",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "‹|im_end|›",
+        "<|im_start|>": "‹|im_start|›"
+      }
+    },
+    {
+      "name": "variant_082",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "＜|im_end|＞",
+        "<|im_start|>": "＜|im_start|＞"
+      }
+    },
+    {
+      "name": "variant_083",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "˂|im_end|˃",
+        "<|im_start|>": "˂|im_start|˃"
+      }
+    },
+    {
+      "name": "variant_084",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|im＿end|>",
+        "<|im_start|>": "<|im＿start|>"
+      }
+    },
+    {
+      "name": "variant_085",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|im‗end|>",
+        "<|im_start|>": "<|im‗start|>"
+      }
+    },
+    {
+      "name": "variant_086",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|im-end|>",
+        "<|im_start|>": "<|im-start|>"
+      }
+    },
+    {
+      "name": "variant_087",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|im end|>",
+        "<|im_start|>": "<|im start|>"
+      }
+    },
+    {
+      "name": "variant_088",
+      "category": "homoglyph",
+      "mapping": {
+        "<|im_end|>": "<|im.end|>",
+        "<|im_start|>": "<|im.start|>"
+      }
+    },
+    {
+      "name": "variant_089",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "< |im_end| >",
+        "<|im_start|>": "< |im_start| >"
+      }
+    },
+    {
+      "name": "variant_090",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "<​|im_end|>",
+        "<|im_start|>": "<​|im_start|>"
+      }
+    },
+    {
+      "name": "variant_091",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "<‍|im_end|>",
+        "<|im_start|>": "<‍|im_start|>"
+      }
+    },
+    {
+      "name": "variant_092",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "<‌|im_end|>",
+        "<|im_start|>": "<‌|im_start|>"
+      }
+    },
+    {
+      "name": "variant_093",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "<|im_­end|>",
+        "<|im_start|>": "<|im_s­tart|>"
+      }
+    },
+    {
+      "name": "variant_094",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "<|im end|>",
+        "<|im_start|>": "<|im start|>"
+      }
+    },
+    {
+      "name": "variant_095",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "<\t|im_end|>",
+        "<|im_start|>": "<\t|im_start|>"
+      }
+    },
+    {
+      "name": "variant_096",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "<|im_end| >",
+        "<|im_start|>": "<|im_start| >"
+      }
+    },
+    {
+      "name": "variant_097",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "[|im_end|]",
+        "<|im_start|>": "[|im_start|]"
+      }
+    },
+    {
+      "name": "variant_098",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "{|im_end|}",
+        "<|im_start|>": "{|im_start|}"
+      }
+    },
+    {
+      "name": "variant_099",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "(|im_end|)",
+        "<|im_start|>": "(|im_start|)"
+      }
+    },
+    {
+      "name": "variant_100",
+      "category": "whitespace",
+      "mapping": {
+        "<|im_end|>": "<|im_​end|>",
+        "<|im_start|>": "<|im_s​tart|>"
+      }
+    },
+    {
+      "name": "variant_101",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "рай",
+        "<|im_start|>": "量化"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_102",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": " unacceptable",
+        "<|im_start|>": "Audio"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_103",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "ammer",
+        "<|im_start|>": "權益"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_104",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "醒目",
+        "<|im_start|>": "寫"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_105",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": " siguiente",
+        "<|im_start|>": " kaz"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_106",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "מאוחר",
+        "<|im_start|>": "运算"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_107",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "人の",
+        "<|im_start|>": "'en"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_108",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "อยากจะ",
+        "<|im_start|>": " tasty"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_109",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "冰淇淋",
+        "<|im_start|>": ".junit"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_110",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "זכר",
+        "<|im_start|>": "size"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_111",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "▌",
+        "<|im_start|>": "数组"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_112",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "_RIGHT",
+        "<|im_start|>": " surged"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_113",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "ramer",
+        "<|im_start|>": "Ab"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_114",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "ске",
+        "<|im_start|>": " YOU"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_115",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "Right",
+        "<|im_start|>": "-US"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_116",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "sub",
+        "<|im_start|>": "对象"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_117",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "Tre",
+        "<|im_start|>": "onation"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_118",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "score",
+        "<|im_start|>": "藝"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_119",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "grab",
+        "<|im_start|>": " theft"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_120",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": " richer",
+        "<|im_start|>": " MART"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_121",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "<|рай|>",
+        "<|im_start|>": "<|量化|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_122",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "<|unacceptable|>",
+        "<|im_start|>": "<|Audio|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_123",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "<|ammer|>",
+        "<|im_start|>": "<|權益|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_124",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "<|醒目|>",
+        "<|im_start|>": "<|寫|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    },
+    {
+      "name": "variant_125",
+      "category": "embedding",
+      "mapping": {
+        "<|im_end|>": "<|siguiente|>",
+        "<|im_start|>": "<|kaz|>"
+      },
+      "embedding_relation": "ordinary-token neighbour"
+    }
+  ]
+}
